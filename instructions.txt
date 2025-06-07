@@ -1,0 +1,11 @@
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+mkdir myproject && cd myproject
+git init
+touch README.md
+echo "# My Project" >> README.md
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/yourusername/myproject.git
+git push -u origin main
