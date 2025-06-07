@@ -9,8 +9,8 @@ import os
 delay_min = 1
 delay_max = 2
 
-ig_username = "landscaping_victorville"
-ig_password = "Navarrolove18@"
+ig_username = "username_here"  # Replace with your actual username
+ig_password = "account_password_here"  # Replace with your actual password
 cookies_file = "cookies.json"
 
 def load_cookies(context, file_path):
