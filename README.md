@@ -33,6 +33,7 @@ python instagram.py
   <h2>📁 Project Structure</h2>
   <ul>
     <li><code>instagram.py</code> – Main automation script</li>
+    <li><code>cookies.json</code> – Instagram Cookies for Autologin</li>
   </ul>
 
   <h2>🔒 Disclaimer</h2>
@@ -48,6 +49,7 @@ python instagram.py
 
   <h2>📬 Contact</h2>
   <p>Made with ❤️ by IG Automation Project Contributors.</p>
+  <p>Shoutout to the Reddit Automation Community (RAC)</p>
 
 </body>
 </html>
