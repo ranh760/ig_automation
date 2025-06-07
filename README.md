@@ -3,47 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>IG Automation</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fafafa;
-      color: #333;
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #d63384;
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
-    h2 {
-      color: #0077cc;
-      margin-top: 2rem;
-    }
-    ul {
-      padding-left: 1.2rem;
-    }
-    li {
-      margin-bottom: 0.5rem;
-    }
-    code {
-      background: #f0f0f0;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    .badge {
-      display: inline-block;
-      padding: 0.3em 0.6em;
-      font-size: 0.75rem;
-      color: white;
-      background-color: #4caf50;
-      border-radius: 5px;
-      margin-left: 0.5em;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -69,17 +29,17 @@
   <h2>🚀 Getting Started</h2>
   <pre><code>pip install playwright
 playwright install
-python ig_automation.py
+python instagram.py
 </code></pre>
 
   <h2>📁 Project Structure</h2>
   <ul>
-    <li><code>ig_automation.py</code> – Main automation script</li>
-    <li><code>utils/</code> – Helper functions (future expansion)</li>
+    <li><code>instagram.py</code> – Main automation script</li>
   </ul>
 
   <h2>🔒 Disclaimer</h2>
   <p>This project is for **educational purposes only**. Use responsibly and at your own risk. Automated interactions may violate Instagram’s terms of service.</p>
+  <p>We are not associated to Instagram in any way shape or form! this is a open source project for educational purposes.</p>
 
   <h2>💡 Future Ideas</h2>
   <ul>
