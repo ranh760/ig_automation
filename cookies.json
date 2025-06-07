@@ -1,0 +1,14 @@
+[
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1780766334.892706,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sessionid",
+        "path": "/",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "73828419557%3Ac0typXJI7j8doV%3A13%3AAYdbnXpczKpm2lYpIMVmHaLdtKEqx4U8MLlROTny1Q"
+    }
+]
