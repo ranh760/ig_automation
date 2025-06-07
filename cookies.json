@@ -9,6 +9,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "updatewithyourown or fallback to username/password login method"
+        "value": "updatewithyourown or fallback to username/password login method."
     }
 ]
